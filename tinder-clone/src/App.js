@@ -11,7 +11,7 @@ function App() {
       <Header />
       <Router>
         <Switch>
-          <Route path="/chat">
+          <Route path="/chats">
             <h1>I am Chat page</h1>
           </Route>
           <Route path="/">
